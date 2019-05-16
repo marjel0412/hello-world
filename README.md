@@ -1,3 +1,3 @@
 # hello-world
 my first repository. 
-I'm a total programing beginner. 
+I'm a total programming beginner. 
